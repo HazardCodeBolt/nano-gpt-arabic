@@ -1,0 +1,29 @@
+# Data & checkpoints
+data/
+out/
+*.bin
+*.npy
+*.pt
+*.pkl
+
+# Generated charts & outputs
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+NLP - Mini Project - S2 2025 -2026.pdf
